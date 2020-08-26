@@ -7,6 +7,9 @@ delete branch after merged
 
 testing purpose
 
+deleting branch
+
+
 ****
 **********
 ****************
