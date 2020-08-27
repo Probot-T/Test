@@ -9,3 +9,5 @@ testing purpose
 
 Testing milestone
 
+testing from settings
+
